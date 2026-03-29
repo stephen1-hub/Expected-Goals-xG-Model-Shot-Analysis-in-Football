@@ -1,0 +1,16 @@
+xg-model-project/
+│
+├── data/
+│   └── shots.csv
+│
+├── notebooks/
+│   └── xg_model.ipynb
+│
+├── src/
+│   └── preprocessing.py
+│
+├── outputs/
+│   └── shot_map.png
+│
+├── README.md
+└── requirements.txt
