@@ -107,3 +107,19 @@ The shot map below shows each shot colored by its xG value:
 ---
 
 ## 📂 Project Structure
+xg-model-project/
+│
+├── data/
+│   └── shots.csv
+│
+├── notebooks/
+│   └── xg_model.ipynb
+│
+├── src/
+│   └── preprocessing.py
+│
+├── outputs/
+│   └── shot_map.png
+│
+├── README.md
+└── requirements.txt
