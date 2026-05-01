@@ -70,6 +70,7 @@ The shot map below shows each shot colored by its xG value:
 - 🟢 High probability shots (close to goal, central areas)  
 
 > This demonstrates how shot location strongly influences scoring probability.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f51acb3d-777e-44f3-a466-ed02acce7c17" />
 
 ---
 
